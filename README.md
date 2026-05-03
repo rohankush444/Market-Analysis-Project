@@ -6,6 +6,9 @@ Dataset:
 https://www.kaggle.com/datasets/imranalishahh/marketing-and-product-performance-dataset
 
 ---
+#  Dataset Name
+
+Marketing and Product Performance dataset with more than 1000 rows and more than 10 coloumns
 
 # Project Objective
 
@@ -101,3 +104,5 @@ This project was completed as part of a supervised machine learning assignment.
 - All outputs are reproducible  
 - Dataset is publicly available on Kaggle  
 - Code is fully executable in Kaggle environment
+
+
