@@ -10,6 +10,25 @@ https://www.kaggle.com/datasets/imranalishahh/marketing-and-product-performance-
 
 Marketing and Product Performance dataset with more than 1000 rows and more than 10 coloumns
 
+#  Target Variable
+
+Revenue_Generated
+
+#  Type of Task
+
+Exploratory Data Analysis (EDA) and Supervised Learning (Regression)
+
+#  Research Questions 
+
+1. How does marketing budget affect revenue generation?
+2. What is the relationship between clicks and conversions?
+3. How does discount level influence units sold?
+4. Does subscription tier affect customer satisfaction?
+5. What is the distribution and impact of ROI?
+6. How does bundle pricing affect sales?
+7. Can we predict revenue using marketing features?
+
+
 # Project Objective
 
 The objective of this project is to analyze marketing campaign data to:
